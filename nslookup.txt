@@ -1,0 +1,7 @@
+nslookup networkwalks.com
+Server:         10.61.38.42
+Address:        10.61.38.42#53
+
+Non-authoritative answer:
+Name:   networkwalks.com
+Address: 192.232.216.135
