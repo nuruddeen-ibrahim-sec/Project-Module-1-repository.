@@ -9,13 +9,13 @@
 
 ## 1️⃣ WHOIS – Domain Information
 
-WHOIS is used to collect publicly available domain registration and DNS-related information.
+WHOIS is used to collect publicly available domain information.
 
 📄 **Command Output:**  
-[View whois.txt](Task-1-WHOIS/whois.txt)
+[View whois.txt](whois.txt)
 
 🖼️ **Screenshot:**  
-![WHOIS](Task-1-WHOIS/whois.png)
+![WHOIS](whois.png)
 
 ---
 
@@ -24,34 +24,34 @@ WHOIS is used to collect publicly available domain registration and DNS-related 
 WhatWeb is used to identify technologies and web components used by the target website.
 
 📄 **Command Output:**  
-[View whatweb.txt](Task-2-WhatWeb/whatweb.txt)
+[View whatWeb.txt](whatWeb.txt)
 
 🖼️ **Screenshot:**  
-![WhatWeb](Task-2-WhatWeb/whatweb.png)
+![WhatWeb](whatWeb.png)
 
 ---
 
 ## 3️⃣ NSLookup – DNS Information
 
-NSLookup is used to query DNS information and identify domain resolution details.
+NSLookup is used to query DNS information and domain resolution details.
 
 📄 **Command Output:**  
-[View nslookup.txt](Task-3-NSLookup/nslookup.txt)
+[View nslookup.txt](nslookup.txt)
 
 🖼️ **Screenshot:**  
-![NSLookup](Task-3-NSLookup/nslookup.png)
+![NSLookup](nslookup.png)
 
 ---
 
 ## 4️⃣ CURL – HTTP Information
 
-CURL is used to send HTTP/HTTPS requests and inspect the server response.
+CURL is used to send HTTP/HTTPS requests and inspect server responses.
 
 📄 **Command Output:**  
-[View curl.txt](Task-4-CURL/curl.txt)
+[View curl.txt](curl.txt)
 
 🖼️ **Screenshot:**  
-![CURL](Task-4-CURL/curl.png)
+![CURL](curl.png)
 
 ---
 
@@ -60,10 +60,10 @@ CURL is used to send HTTP/HTTPS requests and inspect the server response.
 WAFW00F is used to identify whether a Web Application Firewall may be protecting the website.
 
 📄 **Command Output:**  
-[View wafw00f.txt](Task-5-WAFW00F/wafw00f.txt)
+[View wafw00f.txt](wafw00f.txt)
 
 🖼️ **Screenshot:**  
-![WAFW00F](Task-5-WAFW00F/wafw00f.png)
+![WAFW00F](wafw00f.png)
 
 ---
 
@@ -72,10 +72,10 @@ WAFW00F is used to identify whether a Web Application Firewall may be protecting
 DNSRecon is used to gather publicly observable DNS information from the authorized target.
 
 📄 **Command Output:**  
-[View dnsrecon.txt](Task-6-DNSRecon/dnsrecon.txt)
+[View dnsrecon.txt](dnsrecon.txt)
 
 🖼️ **Screenshot:**  
-![DNSRecon](Task-6-DNSRecon/dnsrecon.png)
+![DNSRecon](dnsrecon.png)
 
 ---
 
@@ -85,5 +85,6 @@ Six reconnaissance techniques were performed and documented with command outputs
 
 **Tools:** WHOIS • WhatWeb • NSLookup • CURL • WAFW00F • DNSRecon
 
-**Author:** Muhammad Ibrahim  
+**Author:** Nura Muhammad Ibrahim
+
 **NetworkWalks Cybersecurity Training**
